@@ -1,0 +1,24 @@
+****** Start Log Message ******
+Web Recorder version : 12.53.1203.0 
+Recording Mode: HTML-based script containing explicit URLs only
+Not recording headers
+Exclude content types in list:
+	google.com
+	adblockplus
+	www.google.com
+	accounts.google.com
+	googleapis
+	clients4.google.com
+	clients2.google.com
+Do not record this content types as a resource:
+	text/html
+	text/xml
+Reset context between actions
+Record non-HTML elements in current HTML function
+Protocol Type: Multi-QTWeb
+
+$$$$$$ End Log Message $$$$$$
+
+Code generation version: 12.53.1203.0
+
+****** Analyze segments filter initialization ******

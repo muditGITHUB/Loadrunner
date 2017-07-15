@@ -1,0 +1,23 @@
+[API Trapper      (1270:29f8)] Recording in 32-bit mode: C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+[Network Analyzer (1270:13c4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1270:13c4)] Load Network Traffic Analyzers:
+[Network Analyzer (1270:13c4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1270:13c4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (1270:13c4)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1270:13c4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (1270:13c4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (1270:13c4)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1270:13c4)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1270:13c4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1270:2b0c)] Address lookup for delmjai3046840 = 10.202.98.99
+[Network Analyzer (1270:13c4)] Establish Listener @ 127.0.0.1:30244
+[Network Analyzer (1270:13c4)] Address lookup for delmjai3046840 = 10.202.98.99
+[Network Analyzer (1270:13c4)] Request Connection: Remote Server @ 127.0.0.1:30244   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1270:13c4)] Accept Connection : Service @ 127.0.0.1:30244  ,  Remote Client @ 127.0.0.1:30245
+[Network Analyzer (1270:2b0c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1270:2b0c)]   (Sid:  3) Server -> Client : 1 bytes 
+[API Trapper      (2aec:1d94)] Recording in 64-bit mode: C:\Windows\system32\rundll32.exe
+[API Trapper      (1b20:2328)] Recording in 64-bit mode: C:\Windows\system32\rundll32.exe
+[API Trapper      (15cc: fa0)] Recording in 64-bit mode: C:\Windows\system32\rundll32.exe
+[API Trapper      (2130:2b94)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\iexplore.exe
+[API Trapper      (2358: 63c)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\iexplore.exe

@@ -1,0 +1,245 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+Failed to get information of process Id: 388
+Failed to get information of process Id: 660
+Failed to get information of process Id: 744
+Failed to get information of process Id: 756
+Failed to get information of process Id: 836
+Failed to get information of process Id: 848
+Failed to get information of process Id: 860
+Failed to get information of process Id: 876
+Failed to get information of process Id: 980
+Failed to get information of process Id: 432
+Failed to get information of process Id: 688
+Failed to get information of process Id: 1044
+Failed to get information of process Id: 1120
+Failed to get information of process Id: 1148
+Failed to get information of process Id: 1176
+Failed to get information of process Id: 1288
+PROCESS 0x5a4       dsaccessservice.exe
+PROCESS 0x5d0       vpnagent.exe
+Failed to get information of process Id: 1540
+Failed to get information of process Id: 1572
+Failed to get information of process Id: 1836
+Failed to get information of process Id: 1976
+Failed to get information of process Id: 2008
+Failed to get information of process Id: 1420
+Failed to get information of process Id: 2012
+PROCESS 0x810       tphksvc.exe
+PROCESS 0x840       armsvc.exe
+PROCESS 0x8a0       httpd.exe
+Failed to get information of process Id: 2272
+Failed to get information of process Id: 2300
+PROCESS 0x920       dsaccessservice.exe
+PROCESS 0x960       cvpnd.exe
+Failed to get information of process Id: 2444
+Failed to get information of process Id: 2484
+PROCESS 0x9ec       hasplms.exe
+PROCESS 0xa54       cammute.exe
+PROCESS 0xaf4       micmute.exe
+PROCESS 0xb18       httpd.exe
+Failed to get information of process Id: 2988
+Failed to get information of process Id: 2132
+Failed to get information of process Id: 1768
+Failed to get information of process Id: 3872
+Failed to get information of process Id: 3884
+Failed to get information of process Id: 3916
+Failed to get information of process Id: 3976
+Failed to get information of process Id: 4020
+Failed to get information of process Id: 2920
+Failed to get information of process Id: 2392
+Failed to get information of process Id: 976
+PROCESS 0x1064      googledrivesync.exe
+PROCESS 0x1090      picpick.exe
+Failed to get information of process Id: 4352
+Failed to get information of process Id: 4404
+PROCESS 0x1168      lync.exe
+PROCESS 0x11bc      box local com service.exe
+PROCESS 0x11ec      box edit.exe
+PROCESS 0x1280      googledrivesync.exe
+Failed to get information of process Id: 5096
+PROCESS 0xfa8       pulse.exe
+PROCESS 0x1130      hpwuschd2.exe
+PROCESS 0x10bc      vpnui.exe
+PROCESS 0x10f4      jusched.exe
+PROCESS 0xecc       redirector.exe
+Failed to get information of process Id: 4968
+PROCESS 0xfd4       forwarddaemon.exe
+Failed to get information of process Id: 5232
+PROCESS 0x1554      ccsvchst.exe
+Failed to get information of process Id: 5560
+PROCESS 0x1668      ccsvchst.exe
+Failed to get information of process Id: 6188
+Failed to get information of process Id: 6652
+Failed to get information of process Id: 224
+Failed to get information of process Id: 5776
+Failed to get information of process Id: 3556
+Failed to get information of process Id: 5408
+PROCESS 0x151c      tpscrex.exe
+PROCESS 0x2c4       tponscr.exe
+Failed to get information of process Id: 5760
+Failed to get information of process Id: 4268
+Failed to get information of process Id: 7740
+Failed to get information of process Id: 7768
+Failed to get information of process Id: 7364
+PROCESS 0x1cb8      ucmapi.exe
+Failed to get information of process Id: 7240
+Failed to get information of process Id: 7324
+PROCESS 0x21b0      notepad++.exe
+Failed to get information of process Id: 9796
+PROCESS 0x2a24      outlook.exe
+PROCESS 0x2ac8      excel.exe
+Failed to get information of process Id: 10320
+PROCESS 0xb78       winword.exe
+PROCESS 0x18fc      vugen.exe
+Failed to get information of process Id: 5860
+Failed to get information of process Id: 156
+PROCESS 0x1270      firefox.exe
+		51.0                          C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\SysWOW64\ntdll.dll
+		6.1.7601.18015 (win7sp1_gdr.121129-1432)C:\Windows\syswow64\kernel32.dll
+		6.1.7601.18015 (win7sp1_gdr.121129-1432)C:\Windows\syswow64\KERNELBASE.dll
+		12.1.7004.6500                C:\Windows\SysWOW64\SYSFER.DLL
+		15.2.5.21                     C:\ProgramData\Symantec\Symantec Endpoint Protection\12.1.7004.6500.105\Data\Definitions\IPSDefs\20170710.011\IPSEng32.dll
+		6.1.7601.23677 (win7sp1_ldr.170209-0600)C:\Windows\syswow64\ADVAPI32.dll
+		7.0.7601.17744 (win7sp1_gdr.111215-1535)C:\Windows\syswow64\msvcrt.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\SysWOW64\sechost.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\RPCRT4.dll
+		6.1.7601.23677 (win7sp1_ldr.170209-0600)C:\Windows\syswow64\SspiCli.dll
+		6.1.7601.23677 (win7sp1_ldr.170209-0600)C:\Windows\syswow64\CRYPTBASE.dll
+		51.0                          C:\Program Files (x86)\Mozilla Firefox\mozglue.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\VERSION.dll
+		14.00.24210.0 built by: VCTOOLSRELC:\Program Files (x86)\Mozilla Firefox\MSVCP140.dll
+		14.00.24210.0 built by: VCTOOLSRELC:\Program Files (x86)\Mozilla Firefox\VCRUNTIME140.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-runtime-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\ucrtbase.DLL
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-core-timezone-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-core-file-l2-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-core-localization-l1-2-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-core-synch-l1-2-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-core-processthreads-l1-1-1.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-core-file-l1-2-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-string-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-heap-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-stdio-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-convert-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-locale-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-math-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-multibyte-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-time-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-filesystem-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-environment-l1-1-0.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-utility-l1-1-0.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\bin\bbhook.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\USER32.dll
+		6.1.7601.23688 (win7sp1_ldr.170210-0600)C:\Windows\syswow64\GDI32.dll
+		6.1.7601.23587 (win7sp1_ldr.161102-0600)C:\Windows\syswow64\LPK.dll
+		1.0626.7601.23688 (win7sp1_ldr.170210-0600)C:\Windows\syswow64\USP10.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\IMM32.DLL
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\MSCTF.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\bin\api_trapper.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\mosifs32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\USERENV.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\profapi.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\thrdutil.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\SHELL32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\SHLWAPI.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\IPHLPAPI.DLL
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\NSI.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\WINNSI.DLL
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\PathResolver.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\runtime_code_injection_lib.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\api_sock_proxy.dll
+		                              C:\Program Files (x86)\HP\Virtual User Generator\Bin\pcre-8.10.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\VnpLog.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\VnpUtils.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\MicSocket.dll
+		1.0.2d                        C:\Program Files (x86)\HP\Virtual User Generator\Bin\libeay32_lt.dll
+		10.0.14393.33 (rs1_release_sec.160727-1952)C:\Program Files (x86)\Mozilla Firefox\api-ms-win-crt-conio-l1-1-0.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\WS2_32.dll
+		1.0.2d                        C:\Program Files (x86)\HP\Virtual User Generator\Bin\ssleay32_lt.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\lrun50.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\WSOCK32.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\trans.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\mlib_ds.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\msg_handler.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\config.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\lr_exp.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\trans_server.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\timediff_ext.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\xdr.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\comm_util.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\libxdrutil.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\wrapzlib.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\libdatatypes.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\data_types_ifs.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\jrequestor_srv.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\dc_requests.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\ipng_utils.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\merc_uuid.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\ole32.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\runlogic.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\run_time_context.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\rtc_protocol.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\parameng.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\faserver.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\wrapicu.dll
+		55, 1, 0, 0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\icuuc55.dll
+		55, 1, 0, 0                   C:\Program Files (x86)\HP\Virtual User Generator\Bin\icudt55.dll
+		11.00.51106.1 built by: Q11RELC:\Windows\system32\MSVCR110.dll
+		11.00.51106.1 built by: Q11RELC:\Windows\system32\MSVCP110.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\api_http_filter.dll
+		6.1.7601.23569                C:\Windows\syswow64\OLEAUT32.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\api_trapper1.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\WebMultiInProcNotify.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\uxtheme.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\dwmapi.dll
+		51.0                          C:\Program Files (x86)\Mozilla Firefox\nss3.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\WINMM.dll
+		51.0                          C:\Program Files (x86)\Mozilla Firefox\lgpllibs.dll
+		51.0                          C:\Program Files (x86)\Mozilla Firefox\xul.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\MSIMG32.dll
+		6.1.7601.23566 (win7sp1_ldr.161004-0600)C:\Windows\syswow64\CRYPT32.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\MSASN1.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\SETUPAPI.dll
+		6.1.7601.17621 (win7sp1_gdr.110523-2108)C:\Windows\syswow64\CFGMGR32.dll
+		6.1.7601.17621 (win7sp1_gdr.110523-2108)C:\Windows\syswow64\DEVOBJ.dll
+		6.1.7601.23566 (win7sp1_ldr.161004-0600)C:\Windows\syswow64\WINTRUST.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\WTSAPI32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\pdh.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\ntmarta.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\WLDAP32.dll
+		12.12.1.15                    C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7004.6500.105\Bin\ccVrTrst.dll
+		10.00.40219.1                 C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7004.6500.105\Bin\MSVCP100.dll
+		10.00.40219.1                 C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7004.6500.105\Bin\MSVCR100.dll
+		12.12.1.15                    C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7004.6500.105\bin\ccL120U.dll
+		5.2.1.7                       C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7004.6500.105\Bin\EFACli.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\type_info_pool.dll
+		12.12.1.15                    C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7004.6500.105\Bin\ccIPC.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\SXS.DLL
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\RpcRtRemote.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\system32\dwrite.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\dbghelp.dll
+		6.10 (win7_rtm.090713-1255)   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll
+		2001.12.8530.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\CLBCatQ.DLL
+		7.00.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\propsys.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\Dnsapi.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\mswsock.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\api_openssl_proxy.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\WebGetClientCertificate.dll
+		14.0.24215.1 built by: VCTOOLSD14ULDRC:\Windows\system32\mfc140.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\WebCertificateCreator.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\System32\wshtcpip.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\WebSocketAnalyzer.dll
+		6.1.7601.18685 (win7sp1_gdr.141205-1623)C:\Windows\system32\NLAapi.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\napinsp.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\pnrpnsp.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\System32\winrnr.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\wshbth.dll
+		3,0,0,10                      C:\Program Files (x86)\Bonjour\mdnsNSP.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\System32\fwpuclnt.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\rasadhlp.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\System32\wship6.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\Virtual User Generator\Bin\api_sock_util.dll
+		6.1.7601.18288 (win7sp1_gdr.131018-1533)C:\Windows\syswow64\imagehlp.dll
+Failed to get information of process Id: 11192
